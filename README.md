@@ -1,7 +1,8 @@
-                                            📊 Job Market Analysis Dashboard
+                                                           📊 Job Market Analysis Dashboard
 This project is an interactive Power BI dashboard designed to analyse job market trends, skill demand, and salary insights. It transforms raw job data into actionable career decisions for job seekers.
 
 🔍 Objective
+
 To understand:
 Which industries are hiring the most
 Which skills are in high demand
@@ -9,6 +10,7 @@ How salary varies by role, industry, and experience
 What career strategies can be derived from data
 
 📁 Dashboard Structure
+
 1. Job Market Trends Analysis
 Industry-wise job demand
 City-wise hiring distribution
@@ -33,6 +35,7 @@ Step-by-step career growth strategy
 Actionable recommendations for job seekers
 
 💡 Key Insights
+
 Analysed 10K+ job listings across multiple industries and roles
 AI/ML industry has the highest hiring demand
 SQL is the most in-demand skill across jobs
@@ -41,6 +44,7 @@ High demand roles do not always offer the highest salary
 Salary differences across roles are minimal (~14.9–15.2 LPA range) but consistent
 
 🎯 Career Recommendations
+
 Start with SQL-based Data Analyst roles
 Add Power BI to increase salary potential
 Gain 2–5 years experience for career growth
@@ -48,9 +52,11 @@ Transition to AI/ML roles for higher salaries
 Target high-paying industries like FinTech
 
 🛠 Tools Used
+
 Power BI
 Data Visualization
 Data Analysis
 
 📌 Data Source
+
 Simulated Job Market Dataset
